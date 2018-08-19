@@ -13,5 +13,10 @@ Global CO2 concentration had reached nearly 400ppm in 2015.
 To make predictions I used a Linear Regression model in the last 40-50 years and got the following results:
 ![GitHub Logo](/predictions.jpg)
 
+# 2) Overpopulation
+World population in 2018 has reached **7.6 Billion**. The thing that is so astonishing about that fact is that the world population was just touching **2 Billion** at the start of the 20th century.
+The following shows that in less than **60 years**, world population has gone from **3 billion** people to more than **7.5 billion** people:
+
+
 
 
