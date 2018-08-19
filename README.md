@@ -14,9 +14,16 @@ To make predictions I used a Linear Regression model in the last 40-50 years and
 ![GitHub Logo](/predictions.jpg)
 
 # 2) Overpopulation
-World population in 2018 has reached **7.6 Billion**. The thing that is so astonishing about that fact is that the world population was just touching **2 Billion** at the start of the 20th century.
-The following shows that in less than **60 years**, world population has gone from **3 billion** people to more than **7.5 billion** people:
+World population in 2018 has reached **7.6 Billion**. The thing that is so astonishing about that fact is that the world population was just touching **2 Billion** at the start of the 20th century.                                                                                    
+
+The following shows that in less than **60 years**, world population has gone from **3 billion** people to more than **7.5 billion** people:          
+![GitHub Logo](/pop1.png) 
+
+![GitHub Logo](/pop2.jpg) 
+
+Predictions:                                                                            
+![GitHub Logo](/pop3.png) 
 
 
 
-
+One more thing to note is that the second problem (overpopulation) will directly affect the first problem (Rise in the CO2 levels) and **We may have even less time than what we think we have.**
