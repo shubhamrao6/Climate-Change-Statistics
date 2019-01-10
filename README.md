@@ -26,4 +26,15 @@ Predictions:
 
 
 
-One more thing to note is that the second problem (overpopulation) will directly affect the first problem (Rise in the CO2 levels) and **We may have even less time than what we think we have.**
+One more thing to note is that the second problem (overpopulation) will directly affect the first problem (Rise in the CO2 levels) and **We may have even less time than what we think we have.**                                                                                              
+
+# 3) Global Land Temperature Rise
+The average temperature of all the countries have risen in the past 200 years. The following graphs will how much the temperature has risen for the given countries:                                           
+### India:                                                 
+![GitHub Logo](/India.png)
+
+### USA:
+![GitHub Logo](/USA.png)
+
+### China:
+![GitHub Logo](/China.png)
