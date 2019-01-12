@@ -39,3 +39,4 @@ The average temperature of all the countries have risen in the past 200 years. T
 
 ### China:
 ![GitHub Logo](/China.png)
+![GitHub Logo](/China_1.png)
