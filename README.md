@@ -31,7 +31,8 @@ One more thing to note is that the second problem (overpopulation) will directly
 # 3) Global Land Temperature Rise
 The average temperature of all the countries have risen in the past 200 years. The following graphs will how much the temperature has risen for the given countries:                                           
 ### India:                                                 
-![GitHub Logo](/India.png)
+![GitHub Logo](/India.png)  
+![GitHub Logo](/India_1.png)
 
 ### USA:
 ![GitHub Logo](/USA.png)
