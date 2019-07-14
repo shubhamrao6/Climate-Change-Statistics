@@ -1,4 +1,4 @@
-# End-of-the-World
+# Climate Change Statistics
 As already told earlier, I'm trying to find out how much time we have left on our beloved planet. Various factors such as Rise in the CO2 levels, overpopulation, pollution etc are gravely affecting our enviornment. We will have to look into historical data to predict future enviornmental conditions. To make these **predictions**, we will use **Machine** which will **Learn** these data and will help us to pin point the time at which drastic change to our climate will occur.
 
 # 1) Rise in the CO2 Levels                                                                              
